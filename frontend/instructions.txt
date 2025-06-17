@@ -1,0 +1,6 @@
+make a 
+│   ├── index.html
+│   ├── style.css
+│   └── script.js (or React components)
+
+in this folder(frontend)
